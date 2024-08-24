@@ -15,7 +15,7 @@ This is a large language model with great japanese support : \
 `pip3 install langchain_community`
 
 
-# DOWNLOAD MODEL
+## DOWNLOAD MODEL
 Wesite : https://huggingface.co/mradermacher/Llama-3-neoAI-8B-Chat-v0.1-GGUF
 
 Download the following model with the command below: \
